@@ -41,7 +41,8 @@ The system allows users to view food items and add new items dynamically.
 ---
 
 ## 📂 Project Structure
-```fooddelivery/
+```
+fooddelivery/
 ├── src/
 │   └── main/
 │       ├── java/com/fooddelivery/
