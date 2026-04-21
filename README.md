@@ -58,8 +58,9 @@ fooddelivery/
 │   ├── public/
 │   └── package.json
 │
-```├── pom.xml
+├── pom.xml
 └── README.md
+```
 
 
 
